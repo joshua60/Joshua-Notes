@@ -1,5 +1,7 @@
 Hugging Face 模型
 
+推論引擎的導論參考：https://github.com/modelize-ai/LLM-Inference-Deployment-Tutorial
+
 - AI Edge for LLM 推論引擎PowerInfer： 
   - Github Site: https://github.com/SJTU-IPADS/PowerInfer
   -  
